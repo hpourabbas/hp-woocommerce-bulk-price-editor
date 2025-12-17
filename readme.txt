@@ -31,4 +31,4 @@ With **HP Woocommerce Bulk Price Editor** you can change the price of WooCommerc
 == Changelog ==
 
 = 1.0.0 =
-*Release Date - 15 December 2025*
+*Release Date - 17 December 2025*
