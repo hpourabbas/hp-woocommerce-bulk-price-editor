@@ -24,4 +24,9 @@ class Helper
         return $wp_filesystem->exists($path);
     }
 
+    public static function roundُ($num, $round_to): float|int
+    {
+        return round($num / $round_to) * $round_to;
+    }
+
 }

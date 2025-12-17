@@ -16,7 +16,7 @@ class Config
         if (!$data) {
             $data = [
                 'settings' => [
-                    'price_rounding' => 0,
+                    'price_rounding' => 1,
                 ]
             ];
         }

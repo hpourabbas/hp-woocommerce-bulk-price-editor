@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-30 14:19+0330\n"
-"PO-Revision-Date: 2025-12-16 18:17+0330\n"
+"PO-Revision-Date: 2025-12-17 17:36+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fen_US\n"
@@ -43,6 +43,12 @@ msgstr "شناسه"
 msgid "If you are happy with this plugin and would like to support its development and improvement, you can"
 msgstr "اگر از این افزونه راضی هستید و مایلید از توسعه و بهبود آن حمایت کنید، می‌توانید"
 
+msgid "If you do not specify a brand, all products will be updated. If you select a parent brand, products in the sub-brands will also be updated."
+msgstr "اگر برند را تعیین نکنید کل کالاها بروزرسانی خواهد شد. در صورتی که برند والد را انتخاب کنید کالاهایی که در زیربرند ها قرار دارند هم بروزرسانی خواهد شد."
+
+msgid "If you do not specify a category, all products will be updated. If you select a parent category, products in the sub-categories will also be updated."
+msgstr "اگر دسته بندی را تعیین نکنید کل کالاها بروزرسانی خواهد شد. در صورتی که دسته بندی والد را انتخاب کنید کالاهایی که در زیردسته ها قرار دارند هم بروزرسانی خواهد شد."
+
 msgid "Input data is not valid!"
 msgstr "داده ورودی معتبر نیست!"
 
@@ -76,6 +82,9 @@ msgstr "درصد"
 msgid "Please type or select"
 msgstr "لطفا تایپ یا انتخاب کنید"
 
+msgid "Please use the Preview button before updating the prices and check the final price of one or more products."
+msgstr "لطفا قبل از بروزرسانی قیمت ها از دکمه 'پیش نمایش' استفاده کرده و قیمت نهایی یک یا چند کالا را بررسی کنید."
+
 msgid "Preview"
 msgstr "پیش نمایش"
 
@@ -90,6 +99,9 @@ msgstr "رند کردن قیمت‌ها"
 
 msgid "Rounds prices to the nearest specified value. For example, if you set 500, a price of 2350 will be rounded to 2500."
 msgstr "قیمت‌ها را به نزدیک‌ترین مقدار مشخص شده رند می‌کند. مثلاً اگر عدد 500 را وارد کنید، قیمت‌های 2350 به 2500 رند خواهند شد."
+
+msgid "Return"
+msgstr "بازگشت"
 
 msgid "Save"
 msgstr "ذخیره"
@@ -112,8 +124,17 @@ msgstr "نوع"
 msgid "Update All"
 msgstr "بروزرسانی همه"
 
+msgid "Use negative values to decrease the price."
+msgstr "برای کاهش قیمت از مقادیر منفی استفاده کنید."
+
 msgid "Value"
 msgstr "مقدار"
+
+msgid "View WooCommerce Brands"
+msgstr "مشاهده برند های ووکامرس"
+
+msgid "View WooCommerce Categories"
+msgstr "مشاهده دسته بندی های ووکامرس"
 
 msgid "Yes, Please"
 msgstr "بله، لطفا"

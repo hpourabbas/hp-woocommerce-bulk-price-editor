@@ -3,6 +3,8 @@
 namespace HpWoocommerceBulkPriceEditor\App\Models;
 
 // If this file is called directly, abort.
+use HpWoocommerceBulkPriceEditor\App\Lib\Helper;
+
 if (!defined('HP_EXEC')) {
     die;
 }
@@ -17,6 +19,8 @@ class Product
 
     public static function calculateNewPrice($regular_price, array $data = []): array
     {
+        $settings = Config::get('settings');
+        $round_to = $settings['price_rounding'];
         $priceType = $data['price_type'] ?? null;
         $discountType = $data['discount_type'] ?? null;
         $priceValue = $data['price_value'] ?? null;
@@ -31,7 +35,7 @@ class Product
                 $new_regular_price = $new_regular_price + $priceValue;
                 break;
             case 'p':
-                $new_regular_price = $new_regular_price + round(($priceValue * $new_regular_price) / 100, 2);
+                $new_regular_price = $new_regular_price + (($priceValue * $new_regular_price) / 100);
                 break;
         }
 
@@ -42,7 +46,7 @@ class Product
                 $new_sale_price = $new_sale_price - $discountValue;
                 break;
             case 'p':
-                $new_sale_price = $new_sale_price - round(($discountValue * $new_sale_price) / 100, 2);
+                $new_sale_price = $new_sale_price - (($discountValue * $new_sale_price) / 100);
                 break;
         }
 
@@ -66,9 +70,9 @@ class Product
         }
 
         return [
-            'new_price' => $new_price < 0 ? 0 : $new_price,
-            'new_regular_price' => $new_regular_price < 0 ? 0 : $new_regular_price,
-            'new_sale_price' => $new_sale_price < 0 ? 0 : $new_sale_price,
+            'new_price' => $new_price < 0 ? 0 : Helper::roundُ($new_price, $round_to),
+            'new_regular_price' => $new_regular_price < 0 ? 0 : Helper::roundُ($new_regular_price, $round_to),
+            'new_sale_price' => $new_sale_price < 0 ? 0 : Helper::roundُ($new_sale_price, $round_to),
         ];
     }
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-30 14:19+0330\n"
-"PO-Revision-Date: 2025-12-16 18:17+0330\n"
+"PO-Revision-Date: 2025-12-17 17:36+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fen_US\n"
@@ -43,6 +43,12 @@ msgstr "ID"
 msgid "If you are happy with this plugin and would like to support its development and improvement, you can"
 msgstr "If you are happy with this plugin and would like to support its development and improvement, you can"
 
+msgid "If you do not specify a brand, all products will be updated. If you select a parent brand, products in the sub-brands will also be updated."
+msgstr "If you do not specify a brand, all products will be updated. If you select a parent brand, products in the sub-brands will also be updated."
+
+msgid "If you do not specify a category, all products will be updated. If you select a parent category, products in the sub-categories will also be updated."
+msgstr "If you do not specify a category, all products will be updated. If you select a parent category, products in the sub-categories will also be updated."
+
 msgid "Input data is not valid!"
 msgstr "Input data is not valid!"
 
@@ -76,6 +82,9 @@ msgstr "Percentage"
 msgid "Please type or select"
 msgstr "Please type or select"
 
+msgid "Please use the Preview button before updating the prices and check the final price of one or more products."
+msgstr "Please use the Preview button before updating the prices and check the final price of one or more products."
+
 msgid "Preview"
 msgstr "Preview"
 
@@ -90,6 +99,9 @@ msgstr "Price Rounding"
 
 msgid "Rounds prices to the nearest specified value. For example, if you set 500, a price of 2350 will be rounded to 2500."
 msgstr "Rounds prices to the nearest specified value. For example, if you set 500, a price of 2350 will be rounded to 2500."
+
+msgid "Return"
+msgstr "Return"
 
 msgid "Save"
 msgstr "Save"
@@ -112,8 +124,17 @@ msgstr "Type"
 msgid "Update All"
 msgstr "Update All"
 
+msgid "Use negative values to decrease the price."
+msgstr "Use negative values to decrease the price."
+
 msgid "Value"
 msgstr "Value"
+
+msgid "View WooCommerce Brands"
+msgstr "View WooCommerce Brands"
+
+msgid "View WooCommerce Categories"
+msgstr "View WooCommerce Categories"
 
 msgid "Yes, Please"
 msgstr "Yes, Please"
