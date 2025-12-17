@@ -1,0 +1,1 @@
+<?php return ['js' => 'index.8e408efc.js', 'css' => 'index.d1890514.css'];

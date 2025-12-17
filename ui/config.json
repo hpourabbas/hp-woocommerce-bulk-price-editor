@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiBaseUrl": "http://localhost:3000/api",
+    "otherSetting": "valueForDevelopment"
+  },
+  "production": {
+    "apiBaseUrl": "https://api.yourdomain.com",
+    "otherSetting": "valueForProduction"
+  }
+}

@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-11-30 14:19+0330\n"
+"PO-Revision-Date: 2025-12-16 18:17+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fen_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "All"
+msgstr "All"
+
+msgid "Brands"
+msgstr "Brands"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Continue?"
+msgstr "Continue?"
+
+msgid "Discount"
+msgstr "Discount"
+
+msgid "Fixed Value"
+msgstr "Fixed Value"
+
+msgid "From Date"
+msgstr "From Date"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "If you are happy with this plugin and would like to support its development and improvement, you can"
+msgstr "If you are happy with this plugin and would like to support its development and improvement, you can"
+
+msgid "Input data is not valid!"
+msgstr "Input data is not valid!"
+
+msgid "invite me for a coffee."
+msgstr "invite me for a coffee."
+
+msgid "item(s) successfully updated!"
+msgstr "item(s) successfully updated!"
+
+msgid "item(s) will be updated"
+msgstr "item(s) will be updated"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "New Price"
+msgstr "New Price"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "No"
+msgstr "No"
+
+msgid "Old Price"
+msgstr "Old Price"
+
+msgid "Percentage"
+msgstr "Percentage"
+
+msgid "Please type or select"
+msgstr "Please type or select"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Price (Increase or Decrease)"
+msgstr "Price (Increase or Decrease)"
+
+msgid "Price Rounding"
+msgstr "Price Rounding"
+
+msgid "Rounds prices to the nearest specified value. For example, if you set 500, a price of 2350 will be rounded to 2500."
+msgstr "Rounds prices to the nearest specified value. For example, if you set 500, a price of 2350 will be rounded to 2500."
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Start Over"
+msgstr "Start Over"
+
+msgid "This operation may take some time. Please do not leave this page until the operation is complete!"
+msgstr "This operation may take some time. Please do not leave this page until the operation is complete!"
+
+msgid "To Date"
+msgstr "To Date"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Update All"
+msgstr "Update All"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "Yes, Please"
+msgstr "Yes, Please"

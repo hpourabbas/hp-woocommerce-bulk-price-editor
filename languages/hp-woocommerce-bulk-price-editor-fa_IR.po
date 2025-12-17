@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-11-30 14:19+0330\n"
+"PO-Revision-Date: 2025-12-16 18:17+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fen_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "All"
+msgstr "همه"
+
+msgid "Brands"
+msgstr "برند ها"
+
+msgid "Cancel"
+msgstr "انصراف"
+
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+msgid "Continue?"
+msgstr "Continue?"
+
+msgid "Discount"
+msgstr "تخفیف"
+
+msgid "Fixed Value"
+msgstr "مقدار ثابت"
+
+msgid "From Date"
+msgstr "از تاریخ"
+
+msgid "ID"
+msgstr "شناسه"
+
+msgid "If you are happy with this plugin and would like to support its development and improvement, you can"
+msgstr "اگر از این افزونه راضی هستید و مایلید از توسعه و بهبود آن حمایت کنید، می‌توانید"
+
+msgid "Input data is not valid!"
+msgstr "داده ورودی معتبر نیست!"
+
+msgid "invite me for a coffee."
+msgstr "من را به یک قهوه دعوت کنید."
+
+msgid "item(s) successfully updated!"
+msgstr "آیتم با موفقیت بروز رسانی شد!"
+
+msgid "item(s) will be updated"
+msgstr "آیتم بروزرسانی خواهد شد"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "New Price"
+msgstr "قیمت جدید"
+
+msgid "Next"
+msgstr "بعدی"
+
+msgid "No"
+msgstr "خیر"
+
+msgid "Old Price"
+msgstr "قیمت قدیم"
+
+msgid "Percentage"
+msgstr "درصد"
+
+msgid "Please type or select"
+msgstr "لطفا تایپ یا انتخاب کنید"
+
+msgid "Preview"
+msgstr "پیش نمایش"
+
+msgid "Previous"
+msgstr "قبلی"
+
+msgid "Price (Increase or Decrease)"
+msgstr "قیمت (افزایش یا کاهش)"
+
+msgid "Price Rounding"
+msgstr "رند کردن قیمت‌ها"
+
+msgid "Rounds prices to the nearest specified value. For example, if you set 500, a price of 2350 will be rounded to 2500."
+msgstr "قیمت‌ها را به نزدیک‌ترین مقدار مشخص شده رند می‌کند. مثلاً اگر عدد 500 را وارد کنید، قیمت‌های 2350 به 2500 رند خواهند شد."
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Start Over"
+msgstr "شروع دوباره"
+
+msgid "This operation may take some time. Please do not leave this page until the operation is complete!"
+msgstr "این عملیات ممکن است زمان بر باشد لطفا تا پایان عملیات از این صفحه خارج نشوید!"
+
+msgid "To Date"
+msgstr "تا تاریخ"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Update All"
+msgstr "بروزرسانی همه"
+
+msgid "Value"
+msgstr "مقدار"
+
+msgid "Yes, Please"
+msgstr "بله، لطفا"
